@@ -11,3 +11,10 @@ body {
     border: 1px solid gray;
     padding: 0.5em 2em;
 }
+#bigcontainer {
+    width: 30em;
+    margin: 5em auto;
+    background: white;
+    border: 1px solid gray;
+    padding: 0.5em 2em;
+}
