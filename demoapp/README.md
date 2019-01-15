@@ -10,3 +10,12 @@ To start the demo server, give command:
 ```
     python server.py
 ```
+
+To start the another demo server based on flask, give command:
+```
+    FLASK_APP=flask_app.py FLASK_ENV=development FLASK_DEBUG=1  flask run
+```
+
+
+
+
