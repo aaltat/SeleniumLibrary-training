@@ -1,10 +1,10 @@
-#Getting Started
+# Getting Started
 
 SeleniumLibrary Keyword Documentation - http://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
 
 Robot Framework Documentation - http://robotframework.org/robotframework/#user-guide
 
-#Locators
+# Locators
 
 MS XPath Basic Examples - https://msdn.microsoft.com/en-us/library/ms256086(v=vs.110).aspx
 
@@ -14,11 +14,11 @@ CSS Diner - https://flukeout.github.io/
 
 ["Evaluate and validate XPath/CSS selectors in Chrome Developer Tools"](https://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/) - Yi Zeng
 
-#Debugging
+# Debugging
 
 [Debugging robot framework python keyword libraries](https://stackoverflow.com/questions/32980559/debugging-robot-framework-python-keyword-libraries)
 
-#Waiting
+# Waiting
 
 ["Sleeping is not your best friend in automation"](https://www.seleniumconf.us/talks#michelle-macdonald) - Michelle Macdonald - Selenium Conf, Oct 2018, Chicago
 
@@ -30,10 +30,12 @@ CSS Diner - https://flukeout.github.io/
 
 [robotframework-primefaces library](https://github.com/emanlove/robotframework-primefaces)
 
-#Other website for praticing web testing with SeleniumLibrary
+# Other websites for praticing web testing with SeleniumLibrary
 
-http://the-internet.herokuapp.com/
+[The Internet](http://the-internet.herokuapp.com/)
 
-#Other Selenium References
+[Flood IO Automation Challenge](https://challengers.flood.io/start)
+
+# Other Selenium References
 
 [Elemental Selenium Tips](http://elementalselenium.com/tips) - Dave Haeffner
