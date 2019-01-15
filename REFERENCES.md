@@ -10,6 +10,12 @@ MS XPath Basic Examples - https://msdn.microsoft.com/en-us/library/ms256086(v=vs
 
 MDN Advanced XPath Documentation - https://developer.mozilla.org/en-US/docs/Web/XPath/Snippets
 
+## Some specialized XPath techniques
+
+["How can I match on an attribute that contains a certain string?"](https://stackoverflow.com/questions/1390568/how-can-i-match-on-an-attribute-that-contains-a-certain-string#comment3972442_1390680)
+
+[XPath contains(text(),'some string') doesn't work when used with node with more than one Text subnode](https://stackoverflow.com/a/3655588)
+
 CSS Diner - https://flukeout.github.io/
 
 ["Evaluate and validate XPath/CSS selectors in Chrome Developer Tools"](https://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/) - Yi Zeng
